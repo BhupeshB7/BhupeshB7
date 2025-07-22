@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupeshb7&label=Profile%20views&color=0e75b6&style=flat" alt="bhupeshb7" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, PostgreSQL**
+- 🌱 I’m currently learning **Advance Backend development, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://bhupeshb7.netlify.app/](https://bhupeshb7.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bhupeshb7.vercel.app](https://bhupeshb7.vercel.app)
 
 - 💬 Ask me about **Nodejs**
 
